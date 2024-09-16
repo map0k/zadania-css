@@ -1,0 +1,28 @@
+h1 {
+    width: 200pt;
+    height: 2,5cm;
+    padding : 50px;
+    margin : 40px;
+    border : 4px;
+    border-color: black gray red fuchsia;
+    background : lightgray;
+    border-style : solid;
+    }
+    h2 {
+    width: 300pt;
+    height: 2cm;
+    padding : 30px;
+    margin-left : 340px;
+    border-color: silver;
+    background : Silver;
+    border-style : dashed;
+    }
+    h3 {
+    width: 400pt;
+    height: 3cm;
+    padding : 20px;
+    margin-left : 710px;
+    border-color: gray;
+    background : darkgray;
+    border-style : double;
+    }
